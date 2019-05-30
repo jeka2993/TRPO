@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.493,C:\Users\10-02\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=E:\ИСРПО\MyPaint\Paint1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.708,C:\Users\10-02\Documents\Embarcadero\Studio\Projects\Project1.cbproj=E:\ИСРПО\MyPaint\MyPaint1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\Users\10-02\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\ИСРПО\MyPaint\MyPaint.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.049,=C:\Users\10-02\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.072,=C:\Users\10-02\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\Users\10-02\Documents\Embarcadero\Studio\Projects\Unit1.cpp=E:\ИСРПО\MyPaint\MyPaint.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\Users\10-02\Documents\Embarcadero\Studio\Projects\Unit1.h=E:\ИСРПО\MyPaint\MyPaint.h</Transaction>
+  </Transactions>
+</BorlandProject>
